@@ -1,0 +1,35 @@
+//Fehér vesztett, fekete nyer
+x b x o x w x x o x
+x x x x x x x x x o
+x x x x x x b x x x
+x x o x x x x x o x
+x x x x x w x x x o
+x x x o x x x x x x
+x x x x x w x x x x
+x x x o x x x x x x
+x x x x x x x x x b
+w x x x b x o x o o
+
+//Egy viszonylag megtöltött tábla
+o x w x x x x x x x
+x x x x x b x x o x
+x x o o x x x x x x
+o o x x x x x x x o
+x x x x x o x w x x
+x o x x x w x x x x
+x b x x x w x x o o
+x o x x x x x x x o
+x o o b o x x x x x
+x b o o o x x x x x
+
+//Egy viszonylag üres tábla
+o o o w o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+w o o b o o o o x w
+o o o o o o w o o o
+o o o o o o o o o o
+o o o o o o x o o b
+o o o o o o o o o o
+o o o o o o o o o o
+o o o b o o b o o o

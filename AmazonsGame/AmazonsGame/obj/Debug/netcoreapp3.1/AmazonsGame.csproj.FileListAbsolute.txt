@@ -1,0 +1,17 @@
+C:\Users\pixel\source\repos\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.csprojAssemblyReference.cache
+C:\Users\pixel\source\repos\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.AssemblyInfoInputs.cache
+C:\Users\pixel\source\repos\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.AssemblyInfo.cs
+C:\Users\pixel\source\repos\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.csproj.CoreCompileInputs.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\bin\Debug\netcoreapp3.1\AmazonsGame.exe
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\bin\Debug\netcoreapp3.1\AmazonsGame.deps.json
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\bin\Debug\netcoreapp3.1\AmazonsGame.runtimeconfig.json
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\bin\Debug\netcoreapp3.1\AmazonsGame.runtimeconfig.dev.json
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\bin\Debug\netcoreapp3.1\AmazonsGame.dll
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\bin\Debug\netcoreapp3.1\AmazonsGame.pdb
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.csprojAssemblyReference.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.csproj.CoreCompileInputs.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.AssemblyInfoInputs.cache
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.AssemblyInfo.cs
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.dll
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.pdb
+E:\Felhasználók\Pixelbetyár\Desktop\Beadandó\AmazonsGame\AmazonsGame\obj\Debug\netcoreapp3.1\AmazonsGame.genruntimeconfig.cache
